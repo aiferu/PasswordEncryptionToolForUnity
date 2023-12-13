@@ -1,0 +1,2 @@
+# PasswordEncryptionToolForUnity
+一个使用Unity开发的用于加密自己密码的小工具,可打包成WebGL进行网页端部署
